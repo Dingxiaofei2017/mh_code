@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4302ffa4-c931-4c1f-b25c-bf5552dc6fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/model_util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model_util/loss_layers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4302ffa4-c931-4c1f-b25c-bf5552dc6fc1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +25,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model_util/loss_layers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="572">
+              <caret line="709" column="24" lean-forward="true" selection-start-line="709" selection-start-column="18" selection-end-line="709" selection-end-column="34" />
+              <folding>
+                <element signature="e#921#933#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflow_base/auc_loss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="130" column="20" lean-forward="true" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model_util/util.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="186" selection-start-line="186" selection-end-line="207" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -59,6 +74,7 @@
         <option value="$PROJECT_DIR$/tensorflow_base/sim_estimator.py" />
         <option value="$PROJECT_DIR$/model_util/loss_layers.py" />
         <option value="$PROJECT_DIR$/model_util/util.py" />
+        <option value="$PROJECT_DIR$/tensorflow_base/auc_loss.py" />
       </list>
     </option>
   </component>
@@ -159,12 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1590678797708</updated>
       <workItem from="1590678798929" duration="1622000" />
-      <workItem from="1590906620056" duration="215000" />
+      <workItem from="1590906620056" duration="774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1837000" />
+    <option name="totallyTimeSpent" value="2396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="304" y="123" width="1976" height="1162" extended-state="0" />
@@ -174,7 +190,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897195" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897195" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -182,7 +198,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.20841122" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20841122" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -224,13 +240,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model_util/loss_layers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="572">
+          <caret line="709" column="24" lean-forward="true" selection-start-line="709" selection-start-column="18" selection-end-line="709" selection-end-column="34" />
+          <folding>
+            <element signature="e#921#933#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model_util/util.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="186" selection-start-line="186" selection-end-line="207" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_base/auc_loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="130" column="20" lean-forward="true" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
